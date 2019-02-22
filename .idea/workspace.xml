@@ -1,331 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b83c61d7-c927-49b5-9447-887dbdc9f061" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/ionic.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/home/home.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/home/home.page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/home/home.page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/home/home.page.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/app/home/home.page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/assets/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/assets/shapes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/theme/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdactic-pad/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/ionic.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/icon/drawable-hdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/icon/drawable-ldpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/icon/drawable-mdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/icon/drawable-xhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/icon/drawable-xxhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/icon/drawable-xxxhdpi-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-land-hdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-land-ldpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-land-mdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-land-xhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-land-xxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-land-xxxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-port-hdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-port-ldpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-port-mdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-port-xhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-port-xxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/android/splash/drawable-port-xxxhdpi-screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-1024.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-50@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-72@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-small@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon-small@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/icon/icon@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-568h@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-667h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-Landscape-736h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-Landscape@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-Landscape@~ipadpro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-Landscape~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-Portrait@2x~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-Portrait@~ipadpro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default-Portrait~ipad.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default@2x~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default@2x~universal~anyany.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/ios/splash/Default~iphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/resources/splash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/home/home.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/home/home.page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/home/home.page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/home/home.page.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/app/home/home.page.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/assets/icon/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/assets/shapes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/theme/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IonicApps/devdacticImageCanvas/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/Pizza_DecoratorPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/Mozzarella.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/PizzaMaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/PlainPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/Salami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/TomatoSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Pizza/src/ToppingDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RockPaperScissor_FactoryMethod/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RockPaperScissor_FactoryMethod/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RockPaperScissor_FactoryMethod/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RockPaperScissor_FactoryMethod/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RockPaperScissor_FactoryMethod/RockPaperScissor_FactoryMethod.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/Shapes_FactoryPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/src/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/src/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Shapes_FactoryPattern/src/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/WeatherStation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/src/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/src/PhoneDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/src/StationDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/src/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation/src/WeatherStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation_Observer/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation_Observer/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation_Observer/WeatherStation_Observer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherStation_Observer/src/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/.angular-cli.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/release.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/tasks/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/tasks/changelog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/tasks/ci-check.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/tasks/refresh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/tasks/release-github.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/tasks/release-npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/tasks/version-bump.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/chore/scripts/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/0.3c76e68c42bc232107b6.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/1.522f1586c79936db9acc.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/2.eec02abcb26b78e315fd.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/3.86da506e6b0a467403f8.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/3rdpartylicenses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/4.0aca6a203232d2b2acf4.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/5.94af90d1b03e5075fb46.chunk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/fontawesome-webfont.674f50d287a8c48dc19b.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/fontawesome-webfont.912ec66d7572ff821749.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/fontawesome-webfont.b06871f281fee6b241d6.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/fontawesome-webfont.fee66e712a8a08eef580.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/inline.f7fd537c847050bbfb16.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/main.18646811113195bff36f.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/polyfills.164a2d8a59805b33aaaf.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/styles.b1d832fb09c2b897a523.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/docs/vendor.3dc361468f65dbe6ed94.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/e2e/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/resources/demo.WMV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/resources/demo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/app.routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/core/core.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/layout/layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/layout/vendors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/demo/demo.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/demo/demo.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/demo/demo.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/demo/demo.routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card-group/signature-pad-card-group-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card-group/signature-pad-card-group.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card-group/signature-pad-card-group.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card-group/signature-pad-card-group.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card/signature-pad-card-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card/signature-pad-card.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card/signature-pad-card.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-card/signature-pad-card.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-configuration/signature-pad-configuration-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-configuration/signature-pad-configuration.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-configuration/signature-pad-configuration.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-configuration/signature-pad-configuration.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control-validation/signature-pad-control-validation-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control-validation/signature-pad-control-validation.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control-validation/signature-pad-control-validation.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control-validation/signature-pad-control-validation.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control/signature-pad-control-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control/signature-pad-control.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control/signature-pad-control.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad-control/signature-pad-control.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad/signature-pad-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad/signature-pad.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad/signature-pad.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/pages/signature-pad/signature-pad.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/shared/components/control-state/control-state.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/shared/components/control-state/control-state.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/app/shared/shared.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/ng-package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/public_api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/angular-signature-pad.module.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/angular-signature-pad.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/components/signature-pad-card-group/signature-pad-card-group.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/components/signature-pad-card-group/signature-pad-card-group.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/components/signature-pad-card/signature-pad-card.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/components/signature-pad-card/signature-pad-card.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/components/signature-pad-control/signature-pad-control.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/components/signature-pad/signature-pad.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/components/signature-pad/signature-pad.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/interfaces/signature-pad-config.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/interfaces/signature-segment.interfcae.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/pipes/obj-to-array.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/tokens/global-config.token.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/validators/consists-of-arrays.validation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/validators/constists-of-object.validation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/validators/is-array.validation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/validators/min-lines.validation.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/libs/angular-signature-pad/src/validators/min-points-in-each-n-lines.validator.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../angular-signature-pad-master/angular-signature-pad-master/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/src/main/java/org/mladi/springsqltest/SpringsqltestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/src/main/java/org/mladi/springsqltest/devBootstrap/DevBootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/src/main/java/org/mladi/springsqltest/devBootstrap/TemporalValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/src/main/java/org/mladi/springsqltest/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/src/main/java/org/mladi/springsqltest/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springsqltest/src/test/java/org/mladi/springsqltest/SpringsqltestApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/src/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/src/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/src/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/src/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/src/StarbuzzCoffe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starbuzzWithSizes_DecoratorPattern/starbuzzWithSizes_DecoratorPattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Warehouse/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Warehouse/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../Warehouse/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../Warehouse/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Warehouse/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/src/main/java/live/DroidLock/Warehouse/Model/Artikel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/src/main/java/live/DroidLock/Warehouse/WarehouseApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Warehouse/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Warehouse/src/test/java/live/DroidLock/Warehouse/WarehouseApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring5webapp" beforeDir="false" afterPath="$PROJECT_DIR$/../spring5webapp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring5webapp3" beforeDir="false" afterPath="$PROJECT_DIR$/../spring5webapp3" afterDir="false" />
+    <list default="true" id="02dd2f56-9563-4ed0-b7fd-ea67b37c20de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -334,107 +13,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Menu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Validation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="11" />
+    <option name="y" value="29" />
+    <option name="width" value="2538" />
+    <option name="height" value="1400" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="presentation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="presentation" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550757923456" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -453,41 +63,33 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b83c61d7-c927-49b5-9447-887dbdc9f061" name="Default Changelist" comment="" />
-      <created>1550757693143</created>
+      <changelist id="02dd2f56-9563-4ed0-b7fd-ea67b37c20de" name="Default Changelist" comment="" />
+      <created>1550844611236</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550757693143</updated>
-      <workItem from="1550757695798" duration="320000" />
+      <updated>1550844611236</updated>
+      <workItem from="1550844614844" duration="19000" />
     </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1550757904187</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1550757904187</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320000" />
+    <option name="totallyTimeSpent" value="19000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="11" y="29" width="2538" height="1400" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24979855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32981783" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Event Log" side_tool="true" visible="true" weight="0.3296" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -496,7 +98,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="TCPMON" />
+      <window_info anchor="right" id="PlantUML" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -509,44 +111,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Validation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>9</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
