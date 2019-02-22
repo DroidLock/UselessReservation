@@ -47,6 +47,10 @@ public class Parser {
       while (!validator.validatePersons(input)) {
         return Integer.valueOf(input);
       }
+    } else if(tag.equals("selection")) {
+      while(!validator.validateSelection(input)) {
+        return Integer.valueOf(input);
+      }
     }
     return -1;
   }
