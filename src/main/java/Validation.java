@@ -126,7 +126,7 @@ public class Validation {
             isCorrectSelection = false;
             System.out.println("Bitte Auswahl eingeben!");
         }
-        else if(selection != "1" || selection != "2") {
+        else if(selection != "1" && selection != "2") {
             isCorrectSelection = false;
             System.out.println("Auswahl ungueltig!");
         }
