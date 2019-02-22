@@ -97,11 +97,11 @@ public class Validation {
       Pattern r = Pattern.compile(patternTime);
       // Now create matcher object.
       Matcher m = r.matcher(time);
-
       if (m.find()) {
-        isCorrectDate = true;
+        isCorrectTime = true;
+//        System.out.println("penis");
       } else {
-        isCorrectDate = false;
+        isCorrectTime = false;
         System.out.println("Zeit ungueltig! (HH.MM)");
       }
     }

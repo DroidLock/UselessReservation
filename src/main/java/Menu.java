@@ -28,7 +28,9 @@ public class Menu {
             break;
             case 2: showReservations();
             break;
-            case 9: System.exit(0);
+            case 9:
+                System.out.println("Danke fürs benützen der App");
+                System.exit(0);
             break;
             default:
             System.out.println("something went wrong");
@@ -45,7 +47,7 @@ public class Menu {
         System.out.println("Geben sie die Anzahl der Personen ein");
         int personen = parser.getInt("people");
         System.out.println("Geben sie die Tischnummer ein");
-        int tischnummer = parser.getInt("tablenumber");
+        int tischnummer = parser.getInt("tableNumber");
         System.out.println("Geben sie das Reservierungsdatum ein");
         String datum = parser.getString("date");
         System.out.println("Geben sie die Reservierungszeit ein");
@@ -59,7 +61,7 @@ public class Menu {
              ) {
             System.out.println(a);
         }
-
+showMenu();
     }
 
 }
