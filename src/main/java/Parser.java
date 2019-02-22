@@ -14,11 +14,11 @@ public class Parser {
     String input = scanner.nextLine();
 
     if (tag.equals("name")) {
-      while (!validator.validateName(input)) {
+      while (validator.validateName(input)) {
         return input;
       }
     } else if (tag.equals("date")) {
-      while (!validator.validateDate(input)) {
+      while (validator.validateDate(input)) {
         return input;
       }
     }
@@ -44,11 +44,11 @@ public class Parser {
         return Integer.valueOf(input);
       }
     } else if (tag.equals("people")) {
-      while (!validator.validatePersons(input)) {
+      while (validator.validatePersons(input)) {
         return Integer.valueOf(input);
       }
     } else if(tag.equals("selection")) {
-      while(!validator.validateSelection(input)) {
+      while(validator.validateSelection(input)) {
         return Integer.valueOf(input);
       }
     }
