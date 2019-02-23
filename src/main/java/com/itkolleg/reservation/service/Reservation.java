@@ -1,12 +1,12 @@
-package service;
+package com.itkolleg.reservation.service;
 
 public class Reservation {
 
-    String name;
-    int tischNummer;
-    int personen;
-    String datum;
-    double uhrzeit;
+    private String name;
+    private int tischNummer;
+    private int personen;
+    private String datum;
+    private double uhrzeit;
 
     public Reservation(String name, int tischNummer, int personen, String datum, double uhrzeit) {
         this.name = name;

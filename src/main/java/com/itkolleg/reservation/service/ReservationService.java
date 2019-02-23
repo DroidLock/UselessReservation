@@ -1,4 +1,4 @@
-package service;
+package com.itkolleg.reservation.service;
 
 import java.util.ArrayList;
 
@@ -12,15 +12,15 @@ public class ReservationService {
         addDemo();
     }
 
-    public ArrayList<Reservation> getAllReservation(){
+    public ArrayList<Reservation> getAllReservation() {
         return this.reservationArrayList;
     }
 
-    public void addReservation(Reservation reservation){
+    public void addReservation(Reservation reservation) {
         this.reservationArrayList.add(reservation);
     }
 
-    private void addDemo(){
+    private void addDemo() {
         Reservation res1 = new Reservation("Andreas", 5, 4, "15.5.2019", 12.00);
         this.reservationArrayList.add(res1);
     }
