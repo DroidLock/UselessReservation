@@ -30,7 +30,7 @@ class Validation {
             System.out.println("Tischnummer darf maximal 9999 sein!");
         } else {
             try {
-                int castedTablenumber = Integer.valueOf(tablenumber);
+                Integer.valueOf(tablenumber);
             } catch (Exception e) {
                 isCorrectTablenumber = false;
                 System.out.println("Tischnummer ungueltig!");
