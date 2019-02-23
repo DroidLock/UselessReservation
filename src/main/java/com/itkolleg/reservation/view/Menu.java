@@ -1,17 +1,19 @@
 package com.itkolleg.reservation.view;
 
-import com.itkolleg.reservation.input.Parser;
+import com.itkolleg.reservation.input.Input;
+import com.itkolleg.reservation.input.InputHandler;
+import com.itkolleg.reservation.input.ValidationType;
 import com.itkolleg.reservation.service.Reservation;
 import com.itkolleg.reservation.service.ReservationService;
 
 public class Menu {
 
     private ReservationService service;
-    private Parser parser;
+    private Input inputHandler;
 
     public Menu() {
         this.service = new ReservationService();
-        this.parser = new Parser();
+        this.inputHandler = new InputHandler();
     }
 
     public void showMenu() {
@@ -22,7 +24,7 @@ public class Menu {
         System.out.println("2. Reservierungen anzeigen");
         System.out.println("9. Programm beenden");
 
-        int a = parser.getInt("selection");
+        int a = inputHandler.getInt(ValidationType.SELECTION);
 
         switch (a) {
             case 1:
@@ -46,15 +48,15 @@ public class Menu {
         System.out.println("***************************");
         System.out.println();
         System.out.println("Geben sie den Namen ein");
-        String name = parser.getString("name");
+        String name = inputHandler.getString(ValidationType.NAME);
         System.out.println("Geben sie die Anzahl der Personen ein");
-        int personen = parser.getInt("people");
+        int personen = inputHandler.getInt(ValidationType.PERSONS);
         System.out.println("Geben sie die Tischnummer ein");
-        int tischnummer = parser.getInt("tableNumber");
+        int tischnummer = inputHandler.getInt(ValidationType.TABLENUMBER);
         System.out.println("Geben sie das Reservierungsdatum ein");
-        String datum = parser.getString("date");
+        String datum = inputHandler.getString(ValidationType.DATE);
         System.out.println("Geben sie die Reservierungszeit ein");
-        Double zeit = parser.getDouble("time");
+        Double zeit = inputHandler.getDouble(ValidationType.TIME);
         service.addReservation(new Reservation(name, tischnummer, personen, datum, zeit));
     }
 
