@@ -3,17 +3,11 @@ package com.itkolleg.reservation.input;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Validation {
-
-    private boolean isCorrectName;
-    private boolean isCorrectTablenumber;
-    private boolean isCorrectPersons;
-    private boolean isCorrectDate;
-    private boolean isCorrectTime;
-    private boolean isCorrectSelection;
+class Validation {
 
 
     public boolean validateName(String name) {
+        boolean isCorrectName;
         if (name.length() == 0) {
             isCorrectName = false;
             System.out.println("Bitte Namen eingeben");
@@ -27,7 +21,7 @@ public class Validation {
     }
 
     public boolean validateTablenumber(String tablenumber) {
-        isCorrectTablenumber = true;
+        boolean isCorrectTablenumber = true;
         if (tablenumber.length() == 0) {
             isCorrectTablenumber = false;
             System.out.println("Bitte Tischnummer eingeben!");
@@ -46,7 +40,7 @@ public class Validation {
     }
 
     public boolean validatePersons(String persons) {
-        isCorrectPersons = true;
+        boolean isCorrectPersons = true;
         if (persons.length() == 0) {
             isCorrectPersons = false;
             System.out.println("Bitte Personen Anzahl eingeben!");
@@ -55,7 +49,7 @@ public class Validation {
             System.out.println("Personen Anzahl darf maximal 9999 sein!");
         } else {
             try {
-                int castedPersons = Integer.valueOf(persons);
+                Integer.valueOf(persons);
             } catch (Exception e) {
                 isCorrectPersons = false;
                 System.out.println("Personen Anzahl ungueltig!");
@@ -65,8 +59,9 @@ public class Validation {
     }
 
     public boolean validateDate(String date) {
-        String patternDate = "[0-9]{2}[.]{1}[0-9]{2}[.]{1}[0-9]{4}";
+        String patternDate = "[0-9]{2}[.][0-9]{2}[.][0-9]{4}";
 
+        boolean isCorrectDate;
         if (date.length() == 0) {
             isCorrectDate = false;
             System.out.println("Bitte Datum eingeben!");
@@ -88,8 +83,9 @@ public class Validation {
     }
 
     public boolean validateTime(String time) {
-        String patternTime = "[0-9]{2}[.]{1}[0-9]{2}";
+        String patternTime = "[0-9]{2}[.][0-9]{2}";
 
+        boolean isCorrectTime;
         if (time.length() == 0) {
             isCorrectTime = false;
             System.out.println("Bitte Zeit eingeben");
@@ -110,6 +106,7 @@ public class Validation {
     }
 
     public boolean validateSelection(String selection) {
+        boolean isCorrectSelection;
         if (selection.length() == 0) {
             isCorrectSelection = false;
             System.out.println("Bitte Auswahl eingeben!");

@@ -41,7 +41,7 @@ public class Menu {
         }
     }
 
-    public void makeReservation() {
+    private void makeReservation() {
         System.out.println();
         System.out.println("***************************");
         System.out.println();
@@ -58,9 +58,8 @@ public class Menu {
         service.addReservation(new Reservation(name, tischnummer, personen, datum, zeit));
     }
 
-    public void showReservations() {
-        for (Reservation a : service.getAllReservation()
-        ) {
+    private void showReservations() {
+        for (Reservation a : service.getAllReservation()) {
             System.out.println(a);
         }
     }
