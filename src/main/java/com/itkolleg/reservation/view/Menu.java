@@ -1,5 +1,6 @@
 package com.itkolleg.reservation.view;
 
+import com.itkolleg.reservation.Main;
 import com.itkolleg.reservation.input.Input;
 import com.itkolleg.reservation.input.InputHandler;
 import com.itkolleg.reservation.input.ValidationType;
@@ -34,8 +35,7 @@ public class Menu {
                 showReservations();
                 break;
             case 9:
-                System.out.println("Danke fürs benützen der App");
-                System.exit(0);
+                Main.exit();
                 break;
             default:
                 System.out.println("something went wrong");
