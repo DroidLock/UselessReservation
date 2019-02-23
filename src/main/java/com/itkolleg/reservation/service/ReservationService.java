@@ -1,4 +1,4 @@
-package service;
+package com.itkolleg.reservation.service;
 
 import java.util.ArrayList;
 

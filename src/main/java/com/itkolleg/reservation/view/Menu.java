@@ -1,7 +1,8 @@
-import java.sql.SQLOutput;
+package com.itkolleg.reservation.view;
 
-import service.Reservation;
-import service.ReservationService;
+import com.itkolleg.reservation.input.Parser;
+import com.itkolleg.reservation.service.Reservation;
+import com.itkolleg.reservation.service.ReservationService;
 
 public class Menu {
 

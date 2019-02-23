@@ -1,3 +1,5 @@
+package com.itkolleg.reservation.input;
+
 import java.util.Scanner;
 
 public class Parser {
