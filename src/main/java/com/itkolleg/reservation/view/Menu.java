@@ -24,18 +24,20 @@ public class Menu {
 
         int a = parser.getInt("selection");
 
-        switch (a){
-            case 1: makeReservation();
-            break;
-            case 2: showReservations();
-            break;
+        switch (a) {
+            case 1:
+                makeReservation();
+                break;
+            case 2:
+                showReservations();
+                break;
             case 9:
                 System.out.println("Danke fürs benützen der App");
                 System.exit(0);
-            break;
+                break;
             default:
-            System.out.println("something went wrong");
-            showMenu();
+                System.out.println("something went wrong");
+                showMenu();
         }
     }
 
@@ -54,15 +56,13 @@ public class Menu {
         System.out.println("Geben sie die Reservierungszeit ein");
         Double zeit = parser.getDouble("time");
         service.addReservation(new Reservation(name, tischnummer, personen, datum, zeit));
-        showMenu();
     }
 
     public void showReservations() {
-        for (Reservation a: service.getAllReservation()
-             ) {
+        for (Reservation a : service.getAllReservation()
+        ) {
             System.out.println(a);
         }
-showMenu();
     }
 
 }
